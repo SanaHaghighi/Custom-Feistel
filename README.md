@@ -20,7 +20,7 @@ This repository contains a Python implementation of a simple Feistel cipher. The
 
 ```
 Plain Text: Hello World
-Cipher Text:  !@#$%^&*()_+=-`
+Cipher Text:  |@]jS{c43$
 Decrypt of Cipher Text is:  b'Hello World'
 ```
 
